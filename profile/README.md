@@ -5,36 +5,15 @@
 [![PROAD](https://img.shields.io/badge/PROAD-Pr%C3%B3--Reitoria%20de%20Administra%C3%A7%C3%A3o%20e%20Finan%C3%A7as-1b4d3e?style=flat-square)](https://proad.ufg.br)
 [![DIIP](https://img.shields.io/badge/DIIP-Intelig%C3%AAncia%20de%20Processos-blue?style=flat-square)](https://proad.ufg.br)
 
-A **DIIP** é a diretoria responsável pelo desenvolvimento de soluções digitais, automação orçamentária e inteligência de dados da **Pró-Reitoria de Administração e Finanças (PROAD)** da Universidade Federal de Goiás, atuando em parceria técnica com laboratórios e centros de excelência como o **LAMCAD**.
+A **DIIP** é a unidade responsável pelo desenvolvimento de soluções de inteligência de dados, modernização e automação de processos administrativos da **Pró-Reitoria de Administração e Finanças (PROAD)** da Universidade Federal de Goiás.
 
 ---
 
 ## 🎯 Nossa Atuação
 
-- **Automação de Processos Críticos**: Eliminação de tarefas manuais e otimização de rotinas orçamentárias e financeiras.
-- **Transparência e Integridade**: Conciliação orçamentária rigorosa, alinhada com as exigências dos órgãos de controle (MEC, CGU, TCU e Tesouro Nacional).
-- **Inovação no Setor Público**: Soluções com arquitetura moderna, dados em tempo real e trilhas criptográficas de auditoria.
-
----
-
-## 🚀 Sistemas e Projetos
-
-### [AutoTED](https://github.com/Sistemas-PROAD/AutoTED)
-Plataforma institucional de **gestão, conciliação e observabilidade de Termos de Execução Descentralizada (TED)**:
-- **Ingestão Automatizada**: Integração contínua com Gmail API (Tesouro Gerencial / SIAFI), SIPAC e SEI.
-- **Conciliação Contábil**: Cruzamento automático entre repasses (Notas de Crédito e Programações Financeiras) e execuções (Notas de Empenho, liquidações e pagamentos).
-- **Auditoria Imutável**: Trilha de auditoria criptográfica baseada em encadeamento SHA-256 (*Hash Chain*).
-- **Tecnologias**: Python 3.11, FastAPI, Prefect 2.x, PostgreSQL, SQLAlchemy 2.0 e Frontend No-Build responsivo.
-
----
-
-## 🛠️ Padrões de Engenharia
-
-Nossas soluções seguem rigorosas diretrizes de engenharia e segurança da informação:
-- **Clean Architecture & Domain-Driven Design**
-- **AppSec por Padrão**: Controle de acesso por UGR (RBAC), proteção contra IDOR e sanitização de dados
-- **Testes Automatizados**: Cobertura contínua com pirâmide de testes (Unitários, Integração e E2E)
-- **Infraestrutura On-Premise Resiliente**: Ambientes conteinerizados via Docker com observabilidade contínua
+- **Automação de Processos Administrativos**: Modernização e otimização contínua de rotinas da gestão pública.
+- **Inteligência de Dados e Transparência**: Fornecimento de métricas e painéis para subsidiar a tomada de decisão da gestão universitária.
+- **Conformidade e Eficiência**: Alinhamento das rotinas aos padrões de governança, integridade e órgãos de controle.
 
 ---
 
